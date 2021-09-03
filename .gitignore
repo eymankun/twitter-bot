@@ -1,0 +1,5 @@
+.env
+idea.txt
+credentials.json
+testdb.py
+gspread-bot.py
